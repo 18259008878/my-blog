@@ -1,5 +1,6 @@
 # my-blog
 a blog built by vuepress and vuepress-theme-reco@2.x 
+源码在blog目录下！！
 
 ![image](https://github.com/user-attachments/assets/1ab4e86b-f5c7-4943-a970-d0784a344e3f)
 
