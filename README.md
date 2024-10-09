@@ -1,6 +1,7 @@
 # my-blog
+## 美化版blog
 a blog built by vuepress and vuepress-theme-reco@2.x 
-源码在blog目录下！！
+源码在**blog目录**下！！
 
 ![image](https://github.com/user-attachments/assets/1ab4e86b-f5c7-4943-a970-d0784a344e3f)
 
@@ -16,5 +17,4 @@ a blog built by vuepress and vuepress-theme-reco@2.x
 
 ![image](https://github.com/user-attachments/assets/58f439ad-5013-4055-a52b-bda9c465c410)
 
-
-
+## 基础版blog
